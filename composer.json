@@ -40,5 +40,6 @@
     },
     "scripts-descriptions": {
         "check": "Executa verificações de código usando phan, phpcs e phpunit"
-    }
+    },
+    "bin": ["buscador-cursos.php"]
 }
